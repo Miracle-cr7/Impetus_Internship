@@ -1,0 +1,6 @@
+1|{37,12,none}|{{monsoon,west},{summer,east}}
+2|{45,13,none}|{{summer,east},{monsoon,east}}
+{12,13,14}|45|{summer,{east,monsoon},west}
+1|{37,12,none}|{{monsoon,west},{summer,east}}|4|{12,13}
+1|{{monsoon,west},{summer,east}}
+{{12,45},{54,65},{35,89,45},36}
